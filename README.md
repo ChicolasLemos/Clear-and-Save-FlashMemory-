@@ -1,4 +1,4 @@
-# These are the commands to clear the config - to save your config - and if you want to enter your config
+# These are the commands to clear the config - to save your config - and if you want to enter your config (THIS IS IN THE ROUTERS)
 This is how you clear the config
 ```
 erase startup-config
