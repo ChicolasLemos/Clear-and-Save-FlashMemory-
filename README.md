@@ -1,16 +1,16 @@
 # These are the commands to clear the config - to save your config - and if you want to enter your config
-This is how you clear the memory
+This is how you clear the config
 ```
 erase startup-config
 reload
 ```
-Save your config in flash
+This is how you save your config in flash
 ```
 wr
-copy running-config flash:/"nome" (guardar)
+copy running-config flash:/"name" 
 ```
-If you want to enter your config
+And this is how you enter your config
 ```
-copy flash:/"nome" start-up config (abrir)
+copy flash:/"name" start-up config
 reload
 ```
